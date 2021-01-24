@@ -6,7 +6,7 @@ Develop ML Models for improving the chance of user signups for a product
 
 ## Data: 
 
-Bank Product Campaign data: 
+Bank Product Campaign data: https://github.com/kaniska/user_signup_strategy_case_study/blob/main/bank-full.csv
 
 -- The dataset provided is tied to the direct marketing campaigns of a banking institution.
 
